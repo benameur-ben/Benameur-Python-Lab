@@ -43,3 +43,10 @@ I am open to collaborations with engineers and companies worldwide.
   <i>"Excellence in code is the signature of a true engineer."</i><br>
   <b>Benameur Soft - 2026</b>
 </p>
+
+
+--- 
+### 💰 Support the Project | ادعم المشروع
+If you find my work helpful, consider supporting the development and educational missions of **Benameur Soft**.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/benameursoft)
